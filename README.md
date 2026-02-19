@@ -1,5 +1,22 @@
+<div align="center">
 
+# 🏡 South Carolina Real Estate Market Dashboard (2025)
+
+### A comprehensive Power BI analysis of 5,001 property listings across South Carolina  
+### Exploring pricing trends • property characteristics • market composition • key insights
+
+---
+
+</div>
 South Carolina Real Estate Market Dashboard (2025)
+## 🔖 Badges
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)
+![Real Estate](https://img.shields.io/badge/Real%20Estate-Market%20Analysis-4CAF50?style=for-the-badge)
+![CSV](https://img.shields.io/badge/Data-CSV%20File-FF9800?style=for-the-badge)
+![PBIX](https://img.shields.io/badge/Power%20BI-PBIX%20File-0A66C2?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ## 📑 Table of Contents
 - [Overview](#south-carolina-real-estate-market-dashboard-2025)
 - [Dashboard Pages](#-dashboard-pages)
@@ -49,12 +66,29 @@ The dashboard explores pricing trends, property characteristics, market composit
 - /images — Dashboard screenshots
 
 ## 📝 Key Insights (2025)
-- Single Family homes dominate the market with over 3,400 listings
-- Prices range from under $200K to over $10M
-- Multi Family and Single Family homes have the highest average prices
-- Price per SqFt varies from low hundreds to over $3,700
-- Average home size is ~1,960 SqFt with 3 bedrooms and 2 bathrooms
-- Most listings fall between $200K–$400K
+
+### **🏠 Market Composition**
+- Single Family homes dominate the South Carolina market, representing more than two‑thirds of all listings (3,400+ properties).  
+- Multi Family and Single Family homes consistently appear in the higher price brackets, indicating strong demand and investment value.
+
+### **💲 Pricing Landscape**
+- Listing prices span a wide range—from under $200K to over $10M—highlighting a diverse market that serves both entry‑level buyers and luxury investors.  
+- Most properties fall within the $200K–$400K range, suggesting this is the core affordability segment for the state.
+
+### **📏 Home Size & Features**
+- The average home size is approximately 1,960 SqFt, typically offering **3 bedrooms and 2 bathrooms**, aligning with common family‑oriented housing needs.  
+- Larger homes and properties with more bedrooms/bathrooms show a predictable upward trend in pricing.
+
+### **📉 Price per SqFt (PPSF) Variation**
+- PPSF ranges from the low hundreds to over $3,700, indicating significant variation based on location, property type, and luxury features.  
+- Higher PPSF values are concentrated in premium markets and coastal areas.
+
+### **📊 Price Distribution & Market Behavior**
+- The price distribution skews toward mid‑range properties, with fewer listings in the ultra‑luxury segment.  
+- The relationship between price and square footage shows a positive correlation, though outliers exist in high‑value coastal or investment‑driven markets.
+
+### **📌 Overall Market Takeaway**
+South Carolina’s 2025 real estate market is characterized by strong Single Family home availability, a wide pricing spectrum, and consistent demand in the mid‑range segment. Buyers benefit from diverse options, while investors gain opportunities in high‑value property types and fast‑growing regions.
 
 ## 📌 How to Use
 - Download the .pbix file
