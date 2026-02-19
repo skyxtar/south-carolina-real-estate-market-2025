@@ -1,8 +1,18 @@
+
 South Carolina Real Estate Market Dashboard (2025)
+## 📑 Table of Contents
+- [Overview](#south-carolina-real-estate-market-dashboard-2025)
+- [Dashboard Pages](#-dashboard-pages)
+- [Files Included](#-files-included)
+- [Key Insights (2025)](#-key-insights-2025)
+- [How to Use](#-how-to-use)
+- [Dashboard Preview](#-dashboard-preview)
+- [License](#-license)
+
 This repository contains a full Power BI analysis of the South Carolina real estate market for the year 2025.
 The dashboard explores pricing trends, property characteristics, market composition, and key insights derived from 5,001 property listings.
 
-📊 Dashboard Pages
+## 📊 Dashboard Pages
 1. Overview
 - Most common property type
 - Average listing price
@@ -33,12 +43,12 @@ The dashboard explores pricing trends, property characteristics, market composit
 - Price distribution
 - Final market takeaway
 
-📁 Files Included
+## 📁 Files Included
 - South_Carolina_Real_Estate_2025.pbix — Full Power BI dashboard
 - realestate_data_southcarolina_2025.csv — Dataset used for analysis
 - /images — Dashboard screenshots
 
-📝 Key Insights (2025)
+## 📝 Key Insights (2025)
 - Single Family homes dominate the market with over 3,400 listings
 - Prices range from under $200K to over $10M
 - Multi Family and Single Family homes have the highest average prices
@@ -46,12 +56,12 @@ The dashboard explores pricing trends, property characteristics, market composit
 - Average home size is ~1,960 SqFt with 3 bedrooms and 2 bathrooms
 - Most listings fall between $200K–$400K
 
-📌 How to Use
+## 📌 How to Use
 - Download the .pbix file
 - Open in Power BI Desktop
 - Explore the dashboard using slicers and filters
 
-📜 License
+## 📜 License
 MIT License (optional)
 
 ## 📸 Dashboard Preview
